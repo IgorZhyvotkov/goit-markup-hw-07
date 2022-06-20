@@ -1,0 +1,7 @@
+.page-header {
+  border-bottom: var(--border-header);
+}
+.paje-header__container {
+  @extend .container;
+  @extend .flex-centered;  
+}
